@@ -1,6 +1,6 @@
 # SMS
 
-Dpendencies Used
+Dependencies Used:
  ThymeLeaf
  Spring Boot DevTools
  Lombok
