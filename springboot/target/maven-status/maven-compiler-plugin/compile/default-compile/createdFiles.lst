@@ -1,0 +1,4 @@
+com\role\SpringbootApplication.class
+com\role\Student.class
+com\role\AdmissionFormController.class
+com\role\StudentRepository.class
